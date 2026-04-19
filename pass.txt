@@ -1,0 +1,6 @@
+passhere
+
+When you put your pass in here, make sure that it is between your min and max length,
+doesn't have numbers,
+doesnt have special characters,
+and is uppercase/lowercase as you set it (no need to worry about it if you have it set to just ascii_letters)
