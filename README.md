@@ -1,11 +1,6 @@
 # democrack!
 ver 2.0
 
-## Yes, this is the real repo. The repo was just moved from SchoolFlashCards5 to TheDemoProject.
-
-# THIS IS ZACH'S PROJECT, NOT EK
-
-
 # BIG OLD WARNING:
 # THIS IS AN EDUCATION RESOURCE
 # DO NOT USE IN REAL LIFE ON REAL PASSWORDS!
