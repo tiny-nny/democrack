@@ -118,7 +118,7 @@ Add faster file and update a few things (it was a while ago bro I forgot).
 
 ## Credits
 
-Me on the code (This is my project, im Nny, but this IS a shared account)
+Me on the code
 
 BUT huge crerdits to Daniel Miessler 🛡️ for the passwords list 
 
